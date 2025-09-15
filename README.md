@@ -1,4 +1,4 @@
-**📊 Sales Dashboard (2020–2022) – Power BI Project**
+<img width="1920" height="1080" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/289dce3f-c369-4db3-8fa2-dcbb1a9eee35" />**📊 Sales Dashboard (2020–2022) – Power BI Project**
 
 This repository contains an interactive Power BI dashboard built to analyze sales performance from 2020–2022. The dashboard provides a clear overview of business performance through insightful visualizations and KPIs.
 
@@ -20,8 +20,15 @@ Total Transactions
 Quantity Sold
 
 🖼️ **Dashboard Preview**
+<img width="1920" height="1080" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/6ffc698a-0a95-4f40-8ff9-65126307144f" />
+<img width="1920" height="1080" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/76d7ec35-7c27-4569-9127-6f0afd109f5a" />
+<img width="1920" height="1080" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/12fb399c-4ce2-470a-91a5-c524722ba27f" />
+<img width="1920" height="1080" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/a2a39c0d-a179-439b-b739-7149fcd1e7ea" />
+<img width="1920" height="1080" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/aeec7ccd-37ad-4350-bf3e-8e3948db587b" />
+<img width="1920" height="1080" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/f9012a60-6d2f-4462-9258-a477d563eb9a" />
+<img width="1920" height="1080" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/015f8778-13ee-4bd1-9387-ccdd5bf13b28" />
 
-https://github.com/user-attachments/assets/a0c3bae9-34a3-41b1-93fa-dccac4125ea5
+
 
 **🛠️ Tools & Technologies**
 
